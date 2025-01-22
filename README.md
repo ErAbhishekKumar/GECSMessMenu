@@ -7,6 +7,6 @@ In this app, I provide the mess menu of Government Engineering College Sheikhpur
 
 You can install the latest app by clicking above file and then clicking on raw.
 
-Web App: [gecsheikhpuramess.web.app](gecsheikhpuramess.web.app)
+Web App: [gecsheikhpuramess.web.app](https://gecsheikhpuramess.web.app)
 
 or You can try , [https://sites.google.com/view/gecsmessmenu/](https://sites.google.com/view/gecsmessmenu/)
