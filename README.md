@@ -11,4 +11,4 @@ Web App: [gecsheikhpuramess.web.app](https://gecsheikhpuramess.web.app)
 
 or You can try , [https://sites.google.com/view/gecsmessmenu/](https://sites.google.com/view/gecsmessmenu/)
 
-Vontact: [ErAbhishekKumar](https://t.me/erabhishekkumar)
+Contact: [ErAbhishekKumar](https://t.me/erabhishekkumar)
